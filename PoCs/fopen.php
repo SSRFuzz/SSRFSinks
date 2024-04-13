@@ -1,0 +1,6 @@
+<?php
+    $url      = "http://127.0.0.1/flag";
+    $handle = fopen($url, "r");
+    $respContents = fread($handle, 256);
+    fclose($handle);
+?>
