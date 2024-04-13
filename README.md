@@ -1,6 +1,6 @@
 ## Where URLs Become Weapons: Automated Discovery of SSRF Vulnerabilities in Web Applications
 
-The repository contains an initial list of SSRF sinks that we have discovered. We will compile a well-formatted table characterizing each SSRF sink to publish here after the conference.
+The repository contains a list of SSRF sinks we have discovered. We have provided an example for each sink in the PoCs folder, allowing security researchers and developers to understand why the sink can trigger an SSRF vulnerability.
 
 SSRF Sinks:
 
